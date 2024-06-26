@@ -42,7 +42,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mandu" target="_blank">
+      <a href="https://github.com/Vackam" target="_blank">
         이요환
       </a>
     </td>
