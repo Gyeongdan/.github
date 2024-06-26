@@ -47,7 +47,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pykido" target="_blank">
+      <a href="https://github.com/yeonddori" target="_blank">
         이서연
       </a>
     </td>
